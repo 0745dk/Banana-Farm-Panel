@@ -7,7 +7,7 @@ highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
 markdown:    kramdown
 lsi:         false
-permalink:   "/:title"
+permalink:   "/title"
 
 kramdown:
   ## for german: "sbquo,lsquo,bdquo,ldquo"
